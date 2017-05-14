@@ -1,0 +1,119 @@
+/* line 6, C:/wamp/www/php/relative/styles.scss */
+#nav {
+  padding: 15px 0px;
+  width: 100%;
+  text-align: center; }
+  /* line 10, C:/wamp/www/php/relative/styles.scss */
+  #nav a {
+    text-decoration: none;
+    color: #3cb3c6; }
+
+/* line 16, C:/wamp/www/php/relative/styles.scss */
+#login,
+#register {
+  display: block;
+  width: 100%;
+  text-align: center; }
+  /* line 22, C:/wamp/www/php/relative/styles.scss */
+  #login form input,
+  #register form input {
+    margin: 1px 0px; }
+  /* line 25, C:/wamp/www/php/relative/styles.scss */
+  #login form button,
+  #register form button {
+    margin: 2px; }
+
+/* line 32, C:/wamp/www/php/relative/styles.scss */
+#editform input,
+#editform select {
+  margin: 1px; }
+
+/* line 38, C:/wamp/www/php/relative/styles.scss */
+#register {
+  display: none; }
+
+/* line 42, C:/wamp/www/php/relative/styles.scss */
+.failtext {
+  font-size: 22px;
+  width: 100%;
+  text-align: center;
+  top: 30%;
+  padding: 15px; }
+  /* line 49, C:/wamp/www/php/relative/styles.scss */
+  .failtext a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #3cb3c6; }
+
+/* line 56, C:/wamp/www/php/relative/styles.scss */
+#insidenav {
+  padding: 15px;
+  border-bottom: 1px solid #bebebe;
+  margin-bottom: 10px; }
+
+/* line 62, C:/wamp/www/php/relative/styles.scss */
+body {
+  margin: 0px;
+  background-color: #eeecec;
+  color: #4c4c4c; }
+
+/* line 68, C:/wamp/www/php/relative/styles.scss */
+.content, .failtext {
+  width: 60%;
+  position: absolute;
+  left: 20%;
+  border: 1px solid #bebebe;
+  box-shadow: 10px 10px 15px #e5e5e5; }
+  /* line 74, C:/wamp/www/php/relative/styles.scss */
+  .content .cont1, .failtext .cont1 {
+    padding: 10px;
+    padding-bottom: 5px; }
+
+/* line 80, C:/wamp/www/php/relative/styles.scss */
+.edit {
+  top: 30%;
+  padding: 15px; }
+  /* line 83, C:/wamp/www/php/relative/styles.scss */
+  .edit a {
+    text-decoration: none;
+    color: #3cb3c6; }
+
+/* line 90, C:/wamp/www/php/relative/styles.scss */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  padding: -15px !important; }
+
+/* line 96, C:/wamp/www/php/relative/styles.scss */
+th,
+td {
+  text-align: center;
+  padding: 8px; }
+
+/* line 102, C:/wamp/www/php/relative/styles.scss */
+th {
+  font-family: "Raleway", sans-serif;
+  background-color: #1c1919;
+  color: white;
+  border-bottom: .5px #e5e5e5 solid; }
+
+/* line 109, C:/wamp/www/php/relative/styles.scss */
+tr:nth-child(odd) {
+  background-color: #e5e5e5; }
+
+/* line 113, C:/wamp/www/php/relative/styles.scss */
+.none {
+  padding: 8px 2px; }
+
+/* line 118, C:/wamp/www/php/relative/styles.scss */
+input,
+select {
+  border: 0.5px solid #4c4c4c;
+  border-radius: 2px;
+  padding: 1px; }
+
+/* line 125, C:/wamp/www/php/relative/styles.scss */
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px white inset; }
+
+/*# sourceMappingURL=styles.css.map */
